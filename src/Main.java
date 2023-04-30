@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println(sumOutput(sum(10,20)));
     }
-
+    //very simple content --> project state: "to be removed ..."
     public static int sum(int a, int b) {
         return a + b;
     }
